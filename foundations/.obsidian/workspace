@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04-chaining-selectors/README.md",
+            "file": "06-cascade-fix/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-chaining-selectors/README.md",
+                "file": "06-cascade-fix/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "5575f0c83eec6d15",
   "lastOpenFiles": [
+    "06-cascade-fix/README.md",
     "04-chaining-selectors/README.md",
     "02-class-id-selectors/README.md",
     "01-css-methods/README.md"
